@@ -12,6 +12,6 @@
 
 🔬 Conducting research at **INRiM**, the **Italian National Institute for Metrological Research**  
 
-📊 My main research interest is in **quantum technologies**
+📊 My main research interest is in **superconducting quantum technologies**
 
 
