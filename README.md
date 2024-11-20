@@ -10,7 +10,7 @@
 
 📍 Polytechnic University of Turin (Politecnico di Torino)
 
-🔬 Conducting research at **INRiM, the Italian National Institute for Metrological Research**  
+🔬 Conducting research at **INRiM**, the **Italian National Institute for Metrological Research**  
 
 📊 My main research interest is in **quantum technologies**
 
